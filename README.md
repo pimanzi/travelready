@@ -1,22 +1,23 @@
-# Fast_Pizza-React.Co 🍕
+# travelready 
 
 ## Table of Contents
 
 1. [Description](description)
 2. [Installation](installation)
-3. [Author](author)
-4. [Contibution](contribution)
+3. [website](website)
+4. [Author](author)
+5. [Contibution](contribution)
 
 ## Description
 
-Fast Pizza React is a website showcasing a variety of delicious pizzas. I built this project during my initial week of learning React, aiming to apply and reinforce my newfound knowledge.
+TravelReady is a platform designed to aid travelers in organizing their belongings efficiently for trips, offering packing guidance and tips tailored to individual needs. This service aims to streamline the packing process, providing essential assistance for a hassle-free travel experience.
 
 ## Installation
 
 1. Clone Repository
 
    ```
-    git clone https://github.com/pimanzi/Fast_Pizza-React.Co-.git
+    git clone https://github.com/pimanzi/travelready.git
 
    ```
 
@@ -31,6 +32,9 @@ Fast Pizza React is a website showcasing a variety of delicious pizzas. I built 
    ```
    npm start
    ```
+
+## website
+Here is website URL [website]()
 
 ##Author
 
