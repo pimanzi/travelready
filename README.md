@@ -4,7 +4,7 @@
 
 1. [Description](description)
 2. [Installation](installation)
-3. [website](website)
+3. [webapp](webapp)
 4. [Author](author)
 5. [Contibution](contribution)
 
@@ -33,7 +33,7 @@ TravelReady is a platform designed to aid travelers in organizing their belongin
    npm start
    ```
 
-## website
+## webapp
 Here is website URL [website](https://pimanzi.github.io/travelready/)
 
 ##Author
